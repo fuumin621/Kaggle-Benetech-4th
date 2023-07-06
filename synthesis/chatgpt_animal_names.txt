@@ -1,0 +1,250 @@
+Dog
+Cat
+Elephant
+Lion
+Tiger
+Giraffe
+Bear
+Wolf
+Horse
+Cow
+Pig
+Sheep
+Deer
+Rabbit
+Squirrel
+Kangaroo
+Monkey
+Gorilla
+Chimpanzee
+Dolphin
+Whale
+Penguin
+Eagle
+Owl
+Hawk
+Falcon
+Parrot
+Peacock
+Flamingo
+Swan
+Crocodile
+Alligator
+Turtle
+Snake
+Lizard
+Frog
+Toad
+Octopus
+Jellyfish
+Crab
+Lobster
+Shrimp
+Butterfly
+Bee
+Ant
+Spider
+Scorpion
+Fish
+Shark
+Starfish
+Cheetah
+Zebra
+Koala
+Panda
+Gorilla
+Hippopotamus
+Rhinoceros
+Camel
+Goat
+Fox
+Raccoon
+Bat
+Otter
+Beaver
+Hedgehog
+Platypus
+Penguin
+Alpaca
+Llama
+Ostrich
+Emu
+Peacock
+Flamingo
+Toucan
+Pelican
+Sloth
+Armadillo
+Chameleon
+Iguana
+Komodo dragon
+Cobra
+Tortoise
+Jellyfish
+Starfish
+Seahorse
+Clownfish
+Lobster
+Crab
+Shrimp
+Dolphin
+Orca
+Walrus
+Seal
+Stingray
+Hammerhead shark
+Bald eagle
+Falcon
+Condor
+Vulture
+Osprey
+Rhinoceros
+Hippopotamus
+Chimpanzee
+Flamingo
+Jellyfish
+Alligator
+Porcupine
+Crocodile
+Rhinoceros beetle
+Grasshopper
+Hummingbird
+Orangutan
+Black panther
+Platypus
+Rattlesnake
+Polar bear
+Armadillo
+Hammerhead shark
+Kangaroo rat
+Scorpionfish
+Komodo dragon
+Tasmanian devil
+Electric eel
+Praying mantis
+Yellowhammer
+Banded mongoose
+American bison
+Aardvark
+Bottlenose dolphin
+Gila monster
+Atlantic puffin
+European badger
+Green anaconda
+Fiddler crab
+African grey parrot
+Galapagos tortoise
+African elephant
+Greater flamingo
+Red-eyed tree frog
+Golden eagle
+Malayan tiger
+King cobra
+Blue-ringed octopus
+Brown-throated sloth
+Spotted hyena
+Scarlet macaw
+African wild dog
+Northern cardinal
+Black-capped chickadee
+Japanese macaque
+Black-footed ferret
+American alligator
+Green anaconda
+Western diamondback rattlesnake
+California condor
+Mountain gorilla
+Galapagos tortoise
+African wild dog
+Komodo dragon
+Scarlet macaw
+North American porcupine
+Amazon river dolphin
+Siberian tiger
+Common vampire bat
+Giant anteater
+Asian elephant
+Australian shepherd dog
+Black-handed spider monkey
+American black bear
+Bottlenose dolphin
+Florida panther
+Cape buffalo
+Green tree python
+Bengal tiger
+White-tailed deer
+Black-necked swan
+Red-crowned crane
+Blue whale
+Hammerhead shark
+Mexican red-kneed tarantula
+West Indian manatee
+African spurred tortoise
+Gila monster
+Grey-headed albatross
+Giant Pacific octopus
+Snow leopard
+Polar bear
+Olive ridley sea turtle
+Indian peafowl
+African spurred tortoise
+Greater flamingo
+Japanese macaque
+Bornean orangutan
+Black rhinoceros
+Reticulated python
+Quaker parakeet
+Dalmatian dog
+Galapagos marine iguana
+Eastern brown snake
+White-winged scoter
+Black-footed albatross
+Western lowland gorilla
+African elephant seal
+Philippine eagle owl
+Japanese macaque monkey
+Greater bird-of-paradise
+North American river otter
+Yellow-bellied three-toed sloth
+Green tree monitor lizard
+Central American red-eyed tree frog
+Great hammerhead shark
+Malayan tapir
+Galapagos giant tortoise
+African gray parrot
+Indian peacock
+Australian saltwater crocodile
+Giant river otter
+Giant anteater
+African elephant shrew
+Spectacled flying fox
+Chinese giant salamander
+Frilled-neck lizard
+Amazonian pink river dolphin
+Gila monster lizard
+Olive ridley sea turtle
+Bornean orangutan
+Mountain bluebird
+New Caledonian crow
+Golden lion tamarin
+South American coati
+Green-backed heron
+Vietnamese mossy frog
+Hooded pitohui bird
+Greater roadrunner
+Giant isopod
+Indian rhinoceros
+Great white pelican
+Philippine sailfin lizard
+Red-bellied black snake
+Malayan sun bear
+European honey bee
+Blue-crowned motmot
+African giant millipede
+Tasmanian pademelon
+Wandering albatross
+Black-capped chickadee
+Reticulated giraffe
+Magellanic penguin
+Hawaiian monk seal
+Mexican beaded lizard

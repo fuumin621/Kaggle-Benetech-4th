@@ -1,0 +1,121 @@
+centimeters
+liters
+grams
+kilometers per hour
+pounds
+feet
+ounces
+miles per hour
+inches
+celsius
+fahrenheit
+millimeters
+meters
+yards
+square meters
+square feet
+square miles
+square inches
+square centimeters
+square millimeters
+cubic meters
+cubic feet
+cubic inches
+gallons
+quarts
+pints
+fluid ounces
+cups
+teaspoons
+tablespoons
+miles
+milligrams
+kilograms
+tons
+ounces per square inch
+pounds per square inch
+newtons
+dynes
+pascals
+kilopascals
+megapascals
+psi
+degrees
+radians
+revolutions per minute
+hertz
+watts
+kilowatts
+megawatts
+horsepower
+joules
+calories
+kilocalories
+electron volts
+ampere
+milliampere
+volt
+millivolt
+ohm
+milliohm
+henry
+millihenry
+farad
+picofarad
+nanofarad
+microfarad
+weber
+tesla
+gauss
+lux
+lumens
+candela
+decibels
+hertz
+kilohertz
+megahertz
+gigahertz
+terahertz
+bits
+bytes
+kilobits
+megabits
+gigabits
+terabits
+kilobytes
+megabytes
+gigabytes
+terabytes
+pixels
+dots per inch
+lines per inch
+frames per second
+pages
+items
+minutes
+hours
+days
+weeks
+months
+years
+USD
+EUR
+GBP
+JPY
+AUD
+CAD
+CHF
+CNY
+HKD
+INR
+KRW
+MXN
+MYR
+NZD
+PHP
+SGD
+THB
+TWD
+BTC
+ETH
+XRP

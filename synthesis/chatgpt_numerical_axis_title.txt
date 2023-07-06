@@ -1,0 +1,308 @@
+Inflation Rate (%)
+Happiness Index
+Mobile Phone Penetration (%)
+Stock Market Performance
+Consumer Price Index (CPI)
+Human Development Index (HDI)
+Access to Clean Water (%)
+Unemployment Rate
+GDP Growth Rate
+Inflation Rate
+Life Expectancy (years)
+Literacy Rate (%)
+GDP per Capita
+Population Density
+Infant Mortality Rate
+Education Expenditure (% of GDP)
+Human Development Index
+CO2 Emissions (metric tons per capita)
+Energy Consumption (kWh per capita)
+Foreign Direct Investment (FDI) Inflows
+Internet Penetration Rate (%)
+Trade Volume (in billions)
+Foreign Exchange Reserves (in billions)
+Healthcare Expenditure (% of GDP)
+Internet Users (in millions)
+Gross Enrollment Ratio (%)
+Mobile Phone Subscriptions (in millions)
+Poverty Headcount Ratio (%)
+Research and Development (R&D) Expenditure (% of GDP)
+Access to Clean Water (%)
+Renewable Energy Capacity (in megawatts)
+Air Pollution Index
+Road Traffic Deaths (per 100,000 population)
+Consumer Price Index (CPI)
+Energy Efficiency Rating
+Budget Deficit (% of GDP)
+Corruption Perceptions Index
+Public Debt (in billions)
+Electric Vehicle Adoption Rate (%)
+Labor Force Participation Rate (%)
+Mobile Data Usage (in gigabytes per capita)
+Carbon Intensity (metric tons per capita)
+Mobile Internet Speed (Mbps)
+Foreign Aid Received (in millions)
+Education Attainment Ratio
+Poverty Gap Index
+Digital Connectivity Index
+Energy Intensity (kWh per unit of GDP)
+Youth Literacy Rate (%)
+Mobile App Downloads (in millions)
+CO2 Emissions from Energy Sector (in metric tons)
+Health Expenditure per Capita
+Water Scarcity Index
+Sustainable Development Goals (SDG) Index
+Research Output (number of publications)
+Gender Wage Gap (%)
+Cybersecurity Expenditure (in billions)
+Energy Import Dependency (%)
+Tax Revenue (in billions)
+Entrepreneurship Rate (%)
+Population Growth Rate (%)
+Venture Capital Investments (in millions)
+Air Passenger Traffic (in millions)
+Renewable Energy Employment (in thousands)
+Gross Enrollment Ratio in Higher Education (%)
+Digital Skills Index
+Health Insurance Coverage (%)
+Crime Rate (per 100,000 population)
+Clean Energy Investment (in billions)
+Education Expenditure per Student
+Income Inequality (Gini Coefficient)
+Agriculture Productivity (in metric tons per hectare)
+Research and Development (R&D) Investment (in billions)
+Cybercrime Incidents (per 100,000 population)
+Labor Productivity (GDP per hour worked)
+Internet Freedom Index
+Poverty Severity Index
+Retail Sales Growth Rate (%)
+Child Labor Rate (%)
+Internet Access in Rural Areas (%)
+Healthcare Affordability Index
+Research and Development (R&D) Personnel (in thousands)
+Social Media Users (in millions)
+Government Expenditure on Infrastructure (in billions)
+Access to Financial Services (%)
+Fertility Rate
+Mobile Gaming Revenue (in billions)
+Sustainable Agriculture Practices Adoption (%)
+Internet Censorship Index
+Disaster Preparedness Index
+Film Industry Box Office Revenue (in billions)
+Electricity Consumption (kWh)
+Foreign Trade Balance (in billions)
+Foreign Remittances (in millions)
+Carbon Emissions Reduction Target
+Patent Applications (number)
+Internet Usage Growth Rate
+Poverty Escape Rate
+Investment Rate (% of GDP)
+Water Consumption per Capita (liters)
+Road Length per Capita (kilometers)
+Mobile Penetration Rate
+Gender Parity Index in Education
+Health Expenditure as a Percentage of Total Expenditure
+Urban Population Growth Rate
+Access to Clean Cooking Solutions
+Research and Development (R&D) Expenditure per Capita (in dollars)
+Access to Sanitation Facilities
+Greenhouse Gas Emission Intensity (metric tons per dollar of GDP)
+Life Satisfaction Index
+Mobile Broadband Subscriptions (in millions)
+Poverty Gap (in dollars)
+Science and Technology Workforce Percentage
+Disability Rate
+Renewable Energy Consumption (% of total energy consumption)
+Average Household Size
+Foreign Direct Investment (FDI) Outflows
+Unemployment Duration (months)
+Literacy Rate by Gender
+Research and Development (R&D) Expenditure as a Percentage of Total Expenditure
+Internet Usage by Age Group
+CO2 Emissions from Industry (in metric tons)
+Energy Efficiency Rating by Sector
+Budget Surplus (% of GDP)
+Ease of Doing Business Index
+Public Debt per Capita (in dollars)
+Adoption of Sustainable Transportation
+Labor Force by Occupation
+Mobile Data Consumption Growth Rate
+Carbon Footprint per Capita (metric tons)
+Mobile Internet Availability
+Foreign Aid Contribution (in millions)
+Education Enrollment Rate
+Poverty Severity Index by Region
+Digital Inclusion Index by Country
+Energy Intensity by Sector (kWh per unit of output)
+Youth Unemployment Rate
+Mobile App Revenue Growth Rate
+CO2 Emissions per Capita (metric tons)
+Healthcare Expenditure Growth Rate
+Water Access by Source
+Sustainable Development Goals (SDG) Achievement Index
+Research and Development (R&D) Output per Researcher (number of publications)
+Gender Parity in Decision-Making Positions
+Cybersecurity Expenditure as a Percentage of GDP
+Energy Import Dependency Rate
+Tax Revenue as a Percentage of GDP
+Entrepreneurship Activity Rate
+Population Growth Rate by Age Group
+Venture Capital Investments by Sector (in millions)
+Air Passenger Traffic Growth Rate
+Renewable Energy Employment Growth Rate
+Gross Enrollment Ratio in Higher Education by Gender
+Digital Skills Gap by Country
+Health Insurance Coverage Growth Rate
+Crime Rate by Type (per 100,000 population)
+Clean Energy Investment Growth Rate
+Education Expenditure as a Percentage of GDP
+Income Inequality by Region (Gini Coefficient)
+Agriculture Productivity Growth Rate
+Research and Development (R&D) Investment Growth Rate
+Cybercrime Incidents Growth Rate
+Labor Productivity Growth Rate
+Internet Access in Rural Areas Growth Rate
+Healthcare Affordability Growth Rate
+GDP per capita growth
+Population aging
+Internet penetration growth
+Poverty reduction
+Foreign direct investment growth
+Energy consumption per capita (kWh)
+Carbon emissions intensity reduction target
+Research and development expenditure growth
+Education expenditure per student (dollars)
+Internet users growth
+Urbanization growth
+Life expectancy at birth (years)
+Literacy growth
+GDP growth by sector
+Trade volume growth
+Mobile phone subscriptions growth
+Poverty headcount ratio reduction
+Access to clean water growth
+Renewable energy capacity growth
+Air pollution index reduction
+Road traffic deaths reduction
+Inflation (annual %)
+Energy efficiency improvement
+Budget deficit as a percentage of GDP
+Corruption perception index (score)
+Public debt as a percentage of GDP
+Electric vehicle adoption growth
+Labor force participation growth
+Mobile data usage growth
+Carbon intensity reduction (metric tons per capita)
+Mobile internet speed improvement
+Foreign aid received growth
+Education attainment ratio growth
+Poverty gap index reduction
+Digital connectivity index growth
+Energy intensity reduction (kWh per unit of GDP)
+Youth literacy growth
+Mobile app downloads growth
+CO2 emissions from energy sector reduction (metric tons)
+Health expenditure per capita growth
+Water scarcity index reduction
+Sustainable development goals (SDG) index growth
+Research output per researcher growth (number of publications)
+Gender wage gap reduction
+Cybersecurity expenditure growth
+Energy import dependency reduction
+Tax revenue growth
+Entrepreneurship growth
+Population growth by gender
+Foreign aid contribution growth
+Education enrollment growth
+Poverty severity index reduction
+Digital inclusion index growth
+Energy intensity by sector improvement (kWh per unit of output)
+Youth unemployment reduction
+Mobile app revenue growth
+CO2 emissions per capita reduction (metric tons)
+Healthcare expenditure growth
+Water access by source growth
+Sustainable development goals (SDG) achievement index growth
+Research and development (R&D) output per researcher growth (number of publications)
+Gender parity in decision-making positions growth
+Cybersecurity expenditure as a percentage of GDP growth
+Energy import dependency reduction
+Tax revenue as a percentage of GDP growth
+Entrepreneurship activity growth
+Population growth by age group
+Venture capital investments by sector growth (in millions)
+Air passenger traffic growth
+Renewable energy employment growth
+Gross enrollment ratio in higher education by gender growth
+Digital skills gap by country improvement
+Health insurance coverage growth
+Crime by type reduction (per 100,000 population)
+GDP growth rate by country (%)
+Population growth rate by region
+Internet penetration rate by age group
+Poverty rate by gender
+Foreign direct investment by sector (in billions)
+Energy consumption by source
+Carbon emissions per capita by country (metric tons)
+Research and development expenditure by country (in billions)
+Education expenditure as a percentage of GDP
+Internet users by region (in millions)
+Urbanization rate by country
+Life expectancy at birth by gender (years)
+Literacy rate by age group
+GDP per capita by region (in dollars)
+Trade volume by country (in billions)
+Mobile phone subscriptions by age group (in millions)
+Poverty headcount ratio by region
+Access to clean water by country
+Renewable energy capacity by sector (in megawatts)
+Air pollution index by city
+Road traffic deaths by country (per 100,000 population)
+Inflation rate by country
+Energy efficiency rating by industry
+Budget deficit by country (in billions)
+Corruption perception index by country
+Public debt by country (in trillions)
+Electric vehicle adoption rate by country
+Labor force participation rate by gender
+Mobile data usage by country (in gigabytes per capita)
+Carbon intensity by sector (metric tons per unit of GDP)
+Mobile internet speed by region (Mbps)
+Foreign aid received by country (in millions)
+Education attainment ratio by gender
+Poverty gap index by country
+Digital connectivity index by country
+Energy intensity by industry (kWh per unit of output)
+Youth literacy rate by country
+Mobile app downloads by genre (in millions)
+CO2 emissions from energy sector by country (in metric tons)
+Health expenditure per capita by region
+Water scarcity index by country
+Sustainable development goals (SDG) index by region
+Research output per researcher by country (number of publications)
+Gender wage gap by occupation (%)
+Cybersecurity expenditure by country (in billions)
+Energy import dependency by country (%)
+Tax revenue by country (in trillions)
+Entrepreneurship rate by age group (%)
+Population growth rate by income level (%)
+Foreign aid contribution by country (in millions)
+Education enrollment rate by country (%)
+Poverty severity index by country
+Digital inclusion index by country
+Energy intensity by sector (improvement rate)
+Youth unemployment rate by country (%)
+Mobile app revenue by category (in billions)
+CO2 emissions per capita by income level (metric tons)
+Healthcare expenditure per capita by region
+Water access by source by country (%)
+Sustainable development goals (SDG) achievement index by country
+Research and development (R&D) output per researcher by country (improvement rate)
+Gender parity in decision-making positions by country (%)
+Cybersecurity expenditure as a percentage of GDP by country (%)
+Energy import dependency rate by country (%)
+Tax revenue as a percentage of GDP by country (%)
+Entrepreneurship activity rate by country (%)
+Population growth rate by age group and gender (%)
+Venture capital investments by sector by country (in millions)
+Air passenger traffic by country (in millions)

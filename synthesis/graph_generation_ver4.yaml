@@ -1,0 +1,360 @@
+style:
+  value:
+    - "custom"
+    - "template"
+  weight:
+    - 0.5
+    - 0.5
+title:
+  value:
+    - "benetech_title_ver2.txt"
+    - "chatgpt_titles.txt"
+    - None
+  weight:
+    - 0.1
+    - 0.6
+    - 0.3
+categorical_label:
+  value:
+    - "benetech_x_label_ver2.txt"
+    - "chatgpt_categorical_axis_title.txt"
+    - None
+  weight:
+    - 0.2
+    - 0.6
+    - 0.2
+numerical_label:
+  value:
+    - "benetech_y_label_ver2.txt"
+    - "chatgpt_numerical_axis_title.txt"
+    - "numericals.txt"
+    - "measurements.txt"
+    - None
+  weight:
+    - 0.1
+    - 0.3
+    - 0.2
+    - 0.2
+    - 0.2
+categorical_value:
+  value:
+    - "imagenet_class.txt"
+    - "chatgpt_animal_names.txt"
+    - "chatgpt_city_names.txt"
+    - "country.txt"
+    - "region.txt"
+    - "numerical"
+    - "year"
+    - "month"
+    - "day"
+  weight:
+    - 0.15
+    - 0.1
+    - 0.1
+    - 0.15
+    - 0.1
+    - 0.1
+    - 0.1
+    - 0.1
+    - 0.1
+style:
+  value:
+    - "classic"
+    - "Solarize_Light2"
+    - "bmh"
+    - "dark_background"
+    - "fast"
+    - "fivethrityeight"
+    - "ggplot"
+    - "seaborn-v0_8"
+    - "tableau-colorblind10"
+    - "seaborn-v0_8-pastel"
+    - "seaborn-dark"
+    - "seaborn-darkgrid"
+    - "grayscale"
+  weight:
+    - 0.1
+    - 0.1
+    - 0.1
+    - 0.1
+    - 0.1
+    - 0.1
+    - 0.1
+    - 0.05
+    - 0.05
+    - 0.05
+    - 0.05
+    - 0.05
+    - 0.05
+colors:
+  value:
+    - "k"
+    - "r"
+    - "g"
+    - "b"
+    - "c"
+    - "m"
+    - "royalblue"
+    - "crimson"
+    - "darkgreen"
+    - "hotpink"
+    - "dimgray"
+    - "purple"
+    - "orange"
+    - "brown"
+    - "lightgray"
+    - "lime"
+  weight:
+    - 0.07
+    - 0.07
+    - 0.07
+    - 0.07
+    - 0.07
+    - 0.07
+    - 0.07
+    - 0.07
+    - 0.07
+    - 0.07
+    - 0.05
+    - 0.05
+    - 0.05
+    - 0.05
+    - 0.05
+    - 0.05
+linestyle:
+  value:
+    - "-"
+    - "--"
+    - ":"
+    - "-."
+  weight:
+    - 0.7
+    - 0.1
+    - 0.1
+    - 0.1
+marker:
+  value:
+    - None
+    - "o"
+    - "s"
+    - "^"
+    - "x"
+    - "+"
+    - "D"
+    - "8"
+  weight:
+    - 0.4
+    - 0.2
+    - 0.1
+    - 0.05
+    - 0.1
+    - 0.05
+    - 0.05
+    - 0.05
+marker_size:
+  value:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+  weight:
+    - 0.125
+    - 0.125
+    - 0.125
+    - 0.125
+    - 0.125
+    - 0.125
+    - 0.125
+    - 0.125
+linewidth:
+  value:
+    - 1
+    - 2
+    - 3
+  weight:
+    - 0.4
+    - 0.3
+    - 0.3
+barwidth:
+  value:
+    - 0.3
+    - 0.4
+    - 0.5
+    - 0.6
+    - 0.7
+  weight:
+    - 0.2
+    - 0.2
+    - 0.2
+    - 0.2
+    - 0.2
+background_color:
+  value:
+    - "w"
+    - "k"
+    - "gray"
+    - "cornsilk"
+    - "honeydew"
+    - "lavender"
+    - "lightcyan"
+    - "lightgray"
+    - "mistyrose"
+    - "skyblue"
+    - "plum"
+    - "coral"
+    - "aqua"
+    - "olive"
+    - "thistle"
+    - "whitesmoke"
+    - "wheat"
+    - "ghostwhite"
+    - "ivory"
+    - "moccasin"
+    - "seashell"
+  weight:
+    - 0.5
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+facecolor:
+  value:
+    - "w"
+    - "aliceblue"
+    - "gray"
+    - "lightyellow"
+    - "lightsalmon"
+    - "azure"
+    - "lightcyan"
+    - "lightgray"
+    - "lavenderblush"
+    - "skyblue"
+    - "linen"
+    - "cornsilk"
+    - "thistle"
+    - "whitesmoke"
+    - "wheat"
+    - "honeydew"
+    - "ghostwhite"
+    - "ivory"
+    - "lavender"
+    - "moccasin"
+    - "seashell"
+  weight:
+    - 0.5
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+    - 0.025
+font:
+  value:
+    - "font.txt"
+  weight:
+    - 1.0
+fontsize:
+  value:
+    - 8
+    - 9
+    - 10
+    - 11
+    - 12
+  weight:
+    - 0.2
+    - 0.2
+    - 0.2
+    - 0.2
+    - 0.2
+grid:
+  value:
+    - "None"
+    - "bose"
+    - "x"
+    - "y"
+  weight:
+    - 0.5
+    - 0.3
+    - 0.1
+    - 0.1
+hatching:
+  value:
+    - "-"
+    - "+"
+    - "x"
+    - "\\"
+    - "*"
+    - "o"
+    - "O"
+    - "."
+  weight:
+    - 0.5
+    - 0.05
+    - 0.1
+    - 0.1
+    - 0.05
+    - 0.05
+    - 0.05
+    - 0.1
+hatching_h:
+  value:
+    - "/"
+    - "+"
+    - "x"
+    - "\\"
+    - "*"
+    - "o"
+    - "O"
+    - "."
+  weight:
+    - 0.2
+    - 0.05
+    - 0.2
+    - 0.2
+    - 0.05
+    - 0.05
+    - 0.05
+    - 0.2
+tick_direction:
+  value:
+    - "in"
+    - "out"
+    - "inout"
+  weight:
+    - 0.34
+    - 0.33
+    - 0.33

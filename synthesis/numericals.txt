@@ -1,0 +1,266 @@
+p/e ratio
+mileage
+electricity consumption
+rental rate
+inflation rate
+electricity consumption per capita
+height
+interest rate
+pesticide residue level
+risk score
+ocean acidification index
+aquifer depletion rate
+crime rate
+endocrine disruptors
+wetland health index
+vitamin a content
+coral reef health index
+total assets
+cholesterol content
+fertility rate
+global warming potential
+density
+minimum wage
+school enrollment
+mercury emissions
+amino acid score
+fiber length
+coastal habitat quality
+total antioxidant capacity
+ozone depletion potential
+melting point
+water quality index
+weight
+water stress
+hunger rate
+water activity
+total debt
+infestation level
+threatened species protection
+material footprint
+sodium content
+grain size
+nuclear waste generation
+birthrate
+quality score
+freshwater scarcity index
+rating
+greenhouse gas emissions
+acid deposition
+pectin content
+mold count
+water consumption
+antibiotic use in livestock
+polyphenol content
+land degradation
+salinity level
+obesity rate
+soil erosion
+water content
+value
+urban sprawl
+ph level
+tannin content
+lot size
+trade balance
+nitrate content
+mental health score
+rainfall
+land use change
+carbon emissions
+area
+biochemical oxygen demand
+sales
+food waste generation
+gross energy value
+sulfite content
+texture profile analysis
+credit score
+utility cost
+circumference
+wetland coverage
+gdp
+renewable water resources
+water holding capacity
+length
+job satisfaction
+marine protected areas coverage
+brix value
+digestibility score
+fatty acid profile
+ochratoxin a level
+water efficiency
+market share
+vitamin c content
+water scarcity
+investment
+gross profit
+marine ecosystem health index
+savings
+budget
+protected area coverage
+yield strength
+sulfur dioxide emissions
+toxic chemicals management
+serving size
+oxygen demand index
+flood risk
+seed count
+wastewater treatment
+food safety index
+phytic acid content
+saturated fat content
+free fatty acid content
+debt
+natural disaster risk
+plastic waste generation
+life expectancy
+microplastic pollution
+stock price
+roi
+caloric density
+balance
+air pollution
+sustainable fisheries
+vitality score
+water availability
+dietary fiber content
+glycemic index
+defect count
+iodine value
+longitude
+toxicity index
+residual sugar level
+flour protein content
+inventory
+operating expenses
+renewable energy consumption
+oil content
+cocoa percentage
+stormwater management
+soluble fiber content
+carbohydrate content
+calories
+environmental governance index
+fiscal year
+relative humidity
+electric current
+phosphorus content
+fat content
+co2 emissions per capita
+wildfires
+grit size
+energy density
+units sold
+biodiversity index
+ecological footprint
+fish stocks
+yeast and mold count
+heavy metal contamination
+drought index
+wind energy production
+particulate matter emissions
+species richness
+loan
+usage
+pesticide regulation stringency
+vitamin d content
+lactic acid bacteria count
+total solids content
+national parks coverage
+temperature
+total fat content
+social security
+body mass index
+benthic habitat quality
+groundwater depletion rate
+habitat fragmentation
+clean energy production
+air quality index
+enrollment rate
+land area
+transparency of environmental reporting
+duration
+total phenolic content
+employment rate
+iron content
+radioactive pollution
+hydrogenation level
+working capital
+population
+heart rate
+humidity level
+cognitive ability
+potassium content
+protein content
+whey protein content
+tax rate
+gel strength
+curing time
+preservative level
+solid waste generation
+heavy metal pollution index
+nitrogen oxide emissions
+sugar content
+dissolved oxygen concentration
+per capita waste generation
+starch content
+distance
+immigration rate
+trans fat content
+water consumption per capita
+insoluble fiber content
+moisture content
+river health index
+expenses
+sea level rise
+wheat gluten content
+depression score
+earnings
+sensory acceptability score
+recycling rate
+patient satisfaction
+methane emissions
+carbon dioxide concentration
+unemployment rate
+dry matter content
+hazardous waste generation
+organic chemical pollution
+cash flow
+hourly wage
+nutrient density
+genetic variation
+yearly income
+water use efficiency
+salary
+thawing time
+climate change vulnerability
+global temperature
+soil health index
+water pollution index
+volatile organic compound emissions
+energy efficiency
+sustainable agriculture policy stringency
+profit margin
+phosphorus balance
+chemical pollution index
+dividend
+forest cover
+property value
+macronutrient ratio
+lipid oxidation
+particulate matter concentration
+net income
+water solubility index
+blood pressure
+terrestrial protected areas coverage
+revenue
+ecosystem services value
+time
+wind speed
+urban heat island intensity
+pesticide use
+thermal conductivity
+age
+oxidation stability
+body temperature

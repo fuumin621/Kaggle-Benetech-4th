@@ -1,0 +1,397 @@
+Population Density
+Life Expectancy (years)
+Sales Revenue
+Carbon Emissions (metric tons)
+Household Income
+Export Volume
+Healthcare Expenditure
+Crime Rate
+Air Quality Index
+Tourism Arrivals
+Internet Speed (Mbps)
+Agricultural Production
+CO2 Emissions per Capita
+Research and Development (R&D) Spending
+Road Traffic Accidents
+Foreign Direct Investment (FDI)
+Poverty Rate (%)
+Renewable Energy Production
+Gender Pay Gap
+Corruption Perception Index
+Literacy Rate
+Import Volume
+Patent Applications
+Obesity Rate
+Birth Rate
+Mobile App Downloads
+Social Media Users
+Electric Vehicle Sales
+Research Publications
+Education Spending
+Crime Clearance Rate
+Internet Penetration Rate (%)
+Food Production
+Airline Passengers
+Energy Efficiency
+Life Satisfaction Score
+Foreign Aid Received
+Poverty Gap Index
+Retail Sales
+Health Insurance Coverage
+Road Length
+Average Commute Time
+Renewable Energy Consumption
+Government Debt (% of GDP)
+Mobile Data Usage (GB)
+Foreign Exchange Reserves
+CO2 Emissions from Energy Sector
+Internet Users by Age Group
+Research and Development (R&D) Investment
+Natural Disaster Frequency
+Crime Clearance Rate by Offense Type
+Education Expenditure per Student
+Youth Unemployment Rate (%)
+Electricity Consumption per Capita
+Female Labor Force Participation Rate
+Mobile Payment Transactions
+Air Passenger Traffic
+Trade Balance
+Consumer Confidence Index
+Income Inequality (Gini Coefficient)
+Access to Sanitation Facilities (%)
+Film Industry Box Office Revenue
+Government Expenditure on Infrastructure
+Water Scarcity Index
+Internet of Things (IoT) Devices
+Venture Capital Investments
+Social Media Engagement
+Road Quality Index
+Renewable Energy Investment
+Entrepreneurship Rate
+Population Growth Rate
+Air Pollution Index
+Research Collaboration Networks
+Mobile Gaming Revenue
+Mental Health Disorders Prevalence
+Renewable Energy Capacity
+Energy Efficiency Rating
+Internet Access in Rural Areas
+Consumer Price Index by Product Category
+Gender Parity Index in Education
+Healthcare Access Index
+Cybersecurity Spending
+Child Mortality Rate
+Mobile Broadband Subscriptions
+Tax Revenue as Percentage of GDP
+Digital Skills Index
+Road Traffic Congestion
+Obesity Rate by Age Group
+Human Rights Index
+Environmental Sustainability Index
+Art and Culture Expenditure
+Educational Attainment by Gender
+Foreign Remittances
+Social Media Advertising Revenue
+Population Aging Rate
+Youth Literacy Rate
+Mobile Health Applications
+Venture Capital Funding by Sector
+Internet Censorship Index
+Renewable Energy Employment
+Corruption Index
+Research Output by Field of Study
+e-Commerce Sales
+Electric Vehicle Charging Infrastructure
+Mental Well-being Index
+Access to Financial Services (%)
+Fertility Rate
+Mobile App Usage by Category
+Sustainable Agriculture Practices
+Retail Sales Growth Rate
+Child Labor Rate
+Internet Speed by Provider
+Social Media Influencer Engagement
+Household Debt-to-Income Ratio
+Disaster Preparedness Index
+Scientific Research Funding
+Gender Wage Gap
+Internet Access in Schools
+Energy Intensity
+Access to Healthcare Services (%)
+Mobile Wallet Adoption
+Sustainable Development Goals (SDG) Index
+Gross Enrollment Ratio in Higher Education
+Foreign Direct Investment by Sector
+Digital Divide Index
+Crime Rate by Location
+Cultural Diversity Index
+Research and Development (R&D) Collaboration Index
+Mobile Phone Manufacturing
+Renewable Energy Subsidies
+Human Capital Index
+Internet Freedom Index
+Carbon Footprint per Capita
+Agricultural Land Productivity
+Social Media Usage by Generation
+Access to Electricity (%)
+Entrepreneurship Support Programs
+Water Consumption per Capita
+Healthcare Affordability Index
+Cybercrime Incidents
+Creative Industries Employment
+Income Mobility Index
+Research and Development (R&D) Personnel
+Road Traffic Fatalities
+Internet User Penetration by Age Group
+Clean Energy Investment
+Income Distribution by Quintiles
+Mobile App Revenue
+Gender Parity in STEM Education
+Food Insecurity Rate
+Internet Speed by Region
+Energy Import Dependency
+Research and Development (R&D) Expenditure by Sector
+Air Quality Index by City
+Youth Bullying Incidents
+Digital Inclusion Index
+Healthcare Access by Rural vs Urban Areas
+Smartphone Penetration Rate
+Primary Education Enrollment Rate
+Carbon Pricing Implementation
+Research and Development (R&D) Collaboration Networks
+Cybersecurity Incidents
+Gender Representation in Leadership Positions
+E-commerce Penetration Rate
+Clean Water Access by Region
+Poverty Severity Index
+Internet of Things (IoT) Market Size
+Science and Technology Workforce
+Energy Efficiency in Buildings
+Gender-based Violence Incidents
+Internet Usage by Device Type
+Waste Management and Recycling Rates
+Healthcare Quality Index
+Research and Development (R&D) Funding Sources
+Humanitarian Aid Distribution
+Energy Transition Progress
+Gender Equality Index
+Educational Attainment by Socioeconomic Status
+Mobile Data Speed by Provider
+Sustainable Urbanization Rate
+Consumer Price Index by Region
+Internet Privacy Index
+Access to Basic Services in Informal Settlements
+Start-up Funding by Stage
+Forest Cover Change
+Gender Parity in Sports Participation
+Digital Literacy Index
+Healthcare Expenditure by Disease Category
+Renewable Energy Policy Support
+Income Mobility by Generation
+Internet Connectivity in Remote Areas
+Sustainable Tourism Revenue
+Research and Development (R&D) Output by Institution
+Sustainable Fishery Practices
+Access to Early Childhood Education
+Internet Usage by Income Level
+Greenhouse Gas Emissions by Sector
+Social Media Impact on Mental Health
+Access to Financial Services by Gender
+Sustainable Transport Infrastructure
+Educational Attainment by Ethnicity
+Mobile Payment Adoption Rate
+Carbon Capture and Storage Capacity
+Gender Parity in Sports Leadership
+Internet Access in Public Spaces
+Disability-Inclusive Infrastructure
+Education Expenditure by Level
+Renewable Energy Export Volume
+Health Insurance Coverage by Age Group
+Cybersecurity Preparedness Index
+Access to Sanitation Facilities by Urban vs Rural Areas
+Gender Equality in Science and Technology Fields
+Digital Skills Gender Gap
+Sustainable Agriculture Certification
+Research and Development (R&D) Tax Incentives
+Internet Usage by Occupation
+Plastic Waste Generation
+Mental Health Support Services
+Access to Affordable Housing
+Mobile Network Coverage
+Income Inequality by Urban vs Rural Areas
+Clean Energy Consumption
+Gender Parity in Politics
+Digital Divide by Age Group
+Crime Rate by Gender
+Cultural Heritage Preservation Efforts
+Research and Development (R&D) Collaboration between Academia and Industry
+Internet Access in Public Schools
+Access to Healthcare Services by Income Level
+Renewable Energy Investment by Technology
+Human Capital Development Index
+Internet Freedom by Country
+Water Scarcity by Region
+Agricultural Subsidies
+Social Media Engagement by Platform
+Urbanization Rate
+Gender Pay Gap by Industry
+Research and Development (R&D) Expenditure by Country
+Mobile App Downloads by Category
+Renewable Energy Capacity by Source
+Education Quality Index
+Internet Usage by Education Level
+Food Waste Generation
+Healthcare Access by Income Level
+Energy Consumption by Sector
+Gender Parity in Entrepreneurship
+Internet Speed by Country
+Access to Clean Cooking Fuels
+Research and Development (R&D) Collaboration by Country
+Cybercrime Prevention Measures
+Gender Parity in Media Representation
+Financial Inclusion Index
+Sustainable Land Use Practices
+Obesity Rate by Income Level
+Internet Penetration by Region
+Research and Development (R&D) Funding by Country
+Emissions from Transportation Sector
+Access to Clean Energy by Region
+Income Inequality by Gender
+Internet Access in Public Libraries
+Youth Engagement in Civic Activities
+Sustainable Waste Management Practices
+Gender Parity in Access to Financial Services
+Research and Development (R&D) Personnel by Country
+Clean Energy Subsidies
+Educational Attainment by Disability
+Mobile Banking Adoption Rate
+Water Pollution Index
+Healthcare Expenditure by Country
+Renewable Energy Integration into Grid
+Gender Parity in Science and Technology Fields
+Digital Skills Gap by Gender
+Research and Development (R&D) Investment by Country
+Access to Sanitation Facilities by Income Level
+Sustainable Fisheries Management
+Internet Usage by Generation
+Climate Change Adaptation Measures
+Gender Parity in Sports Sponsorship
+Digital Inclusion by Age Group
+Research and Development (R&D) Collaboration by Sector
+Internet Access in Public Transportation
+Disability-Inclusive Education
+Renewable Energy Generation by Country
+Mental Health Awareness Programs
+Gender Equality Index by Country
+Internet Privacy Laws
+Access to Basic Services by Income Level
+Sustainable Transport Usage
+Educational Attainment by Immigration Status
+Mobile Payment Security Measures
+Carbon Footprint of Food Production
+Access to Mental Health Services
+Internet Connectivity in Rural Areas
+Sustainable Urban Planning Initiatives
+Research and Development (R&D) Output by Field of Study
+Sustainable Forest Management
+Gender Parity in Research and Development (R&D) Leadership
+Internet Access in Community Centers
+Accessibility for Persons with Disabilities
+Renewable Energy Import and Export
+Health Insurance Coverage by Country
+Cybersecurity Awareness Programs
+Access to Sanitation Facilities by Gender
+Gender Equality in Arts and Culture
+Digital Skills by Occupation
+Sustainable Agriculture Practices by Country
+Research and Development (R&D) Tax Credits
+Internet Usage by Age Group
+Plastic Waste Recycling Rate
+Mental Health Support in the Workplace
+Access to Affordable Housing by Income Level
+Mobile Network Speed
+Income Inequality by Age Group
+Clean Energy Consumption by Sector
+Gender Parity in Political Leadership
+Digital Divide by Income Level
+Crime Rate by Age Group
+Cultural Heritage Preservation Efforts by Country
+Research and Development (R&D) Collaboration by Institution
+Internet Access in Public Schools by Region
+Access to Healthcare Services by Gender
+Renewable Energy Investment by Country
+Urbanization Rate by Region
+Gender Pay Gap by Occupation
+Research and Development (R&D) Expenditure by Sector
+Mobile App Downloads by Platform
+Renewable Energy Capacity by Country
+Education Quality Index by Region
+Internet Usage by Socioeconomic Status
+Food Waste Generation by Sector
+Healthcare Access by Gender
+Energy Consumption by Source
+Gender Parity in Entrepreneurship by Country
+Internet Speed by Region
+Access to Clean Cooking Fuels by Income Level
+Research and Development (R&D) Collaboration by Industry
+Cybercrime Prevention Measures by Country
+Gender Parity in Media Representation by Country
+Financial Inclusion Index by Region
+Sustainable Land Use Practices by Country
+Obesity Rate by Gender
+Internet Penetration by Income Level
+Research and Development (R&D) Funding by Sector
+Emissions from Transportation Sector by Country
+Access to Clean Energy by Income Level
+Income Inequality by Region
+Internet Access in Public Libraries by Country
+Youth Engagement in Civic Activities by Country
+Sustainable Waste Management Practices by Country
+Gender Parity in Access to Financial Services by Country
+Research and Development (R&D) Personnel by Sector
+Clean Energy Subsidies by Country
+Educational Attainment by Disability by Country
+Mobile Banking Adoption Rate by Region
+Water Pollution Index by Country
+Healthcare Expenditure by Region
+Renewable Energy Integration into Grid by Country
+Gender Parity in Science and Technology Fields by Country
+Digital Skills Gap by Income Level
+Research and Development (R&D) Investment by Sector
+Access to Sanitation Facilities by Income Level by Country
+Sustainable Fisheries Management by Country
+Internet Usage by Generation by Country
+Climate Change Adaptation Measures by Country
+Gender Parity in Sports Sponsorship by Country
+Digital Inclusion by Age Group by Country
+Research and Development (R&D) Collaboration by Sector by Country
+Internet Access in Public Transportation by Country
+Disability-Inclusive Education by Country
+Renewable Energy Generation by Sector by Country
+Mental Health Awareness Programs by Country
+Gender Equality Index by Region
+Internet Privacy Laws by Country
+Access to Basic Services by Income Level by Country
+Sustainable Transport Usage by Country
+Educational Attainment by Immigration Status by Country
+Mobile Payment Security Measures by Region
+Carbon Footprint of Food Production by Country
+Access to Mental Health Services by Country
+Internet Connectivity in Rural Areas by Country
+Sustainable Urban Planning Initiatives by Country
+Research and Development (R&D) Output by Field of Study by Country
+Sustainable Forest Management by Country
+Gender Parity in Research and Development (R&D) Leadership by Country
+Internet Access in Community Centers by Country
+Accessibility for Persons with Disabilities by Country
+Renewable Energy Import and Export by Country
+Health Insurance Coverage by Region
+Cybersecurity Awareness Programs by Country
+Access to Sanitation Facilities by Gender by Country
+Gender Equality in Arts and Culture by Country
+Digital Skills by Occupation by Country
+Sustainable Agriculture Practices by Country
+Research and Development (R&D) Tax Credits by Country
+Internet Usage by Age Group by Country
+Plastic Waste Recycling Rate by Country
+Mental Health Support in the Workplace
